@@ -1,0 +1,75 @@
+<html>
+	<head>
+		<title> CV Online Nilzo Nicolas Conejeros Elgueta </title>
+		<meta charset="utf-8">
+	</head>
+		<body style="font-family: Arial, helvetica,sans-serif;margin:0;">
+			<header style="background-color:#4da6ff;color:white; padding: 16px;">
+			<h1 style="width:400px;display:inline-block;
+			font-size:20px;text-align:center;font-weight:900" >
+				CV Online NIlzo Conejeros
+				</h1>
+				<p style="text-align:center;font-weight:100;
+				display: inline-block; width:400px;">Ingeniero en Cyberseguridad</p>
+			</header>
+			<div style="background-color: #e6e600;color:black;padding:10px;
+			text-align:center;">
+				8 años de experiencia en administracion de servicios
+				de red corporativos y plataformas de seguridad.
+			</div>
+			<section>
+				<div>
+					<div style="width: 900px;margin-left: auto;margin-right: auto ;">
+						<div style="display: inline-block">
+							<h3 style="font-size: 36px;font-weight: 700">Estudios</H3>
+							<div>
+								<dl>
+									<dt style="font-size: 22px;text-transform uppercase;margin-bottom: 12px;margin-top:36px;">Tecnico en redes AIEP</dt>
+									<dd>2019-Presente</dd>
+									<dt style="font-size: 22px;text-transform uppercase;margin-bottom: 12px;margin-top:36px;">Sophos XG Certified Engineer Course</dt>
+									<dd>Enero 2019</dd>
+									<dt style="font-size: 22px;text-transform uppercase;margin-bottom: 12px;margin-top:36px;">Sophos Endpoint Certified Engineer Course</dt>
+									<dd>Febrero 2019</dd>
+									<dt style="font-size: 22px;text-transform uppercase;margin-bottom: 12px;margin-top:36px;">Gigamon GigaTECH Training</dt>
+									<dd>Octubre 2019</dd>
+								</dl>
+						
+							</div>
+						</div>
+						<div style="display: inline-block">
+								<iframe width="420" height="315" src="https://www.youtube.com/embed/4JZSJ49gVJw">
+								</iframe>
+							</div>
+						<div>
+							<h3 style="font-size: 36px;font-weight: 700">Experiencia Laboral</H3>
+							<div>
+								<dl>
+									<dt style="font-size: 22px;text-transform uppercase;margin-bottom: 12px;margin-top:36px;">Tecnico Atencion Reparaciones</dt>
+									<dd>Enero 2012 - Septiembre 2015, DTS, Prestando servicio a Claro Empresas</dd>
+									<dt style="font-size: 22px;text-transform uppercase;margin-bottom: 12px;margin-top:36px;">Supervisor Atenciones Tecnicas</dt>
+									<dd>Septiembre 2015 - Marzo 2017, Servicorp, Prestando servicio a Claro Empresas</dd>
+									<dt style="font-size: 22px;text-transform uppercase;margin-bottom: 12px;margin-top:36px;">Ingeniero Provision</dt>
+									<dd>Abril 2017 - Diciembre 2018, Akew, Prestando servicio a Entel</dd>
+									<dt style="font-size: 22px;text-transform uppercase;margin-bottom: 12px;margin-top:36px;">Ingeniero en Cyberseguridad</dt>
+									<dd>Enero 2019 - Presente, Makros</dd>
+								</dl>
+							</div>
+						</div>
+						<div>
+							<h3>Redes Sociales</h3>
+							<div>
+								<ul>
+									<li>
+										<a href="https://www.facebook.com/nilzonicolas.conejeroselgueta" target="_blank">Facebook</a>
+									</li>
+									<li>
+										<a href="https://twitter.com/garlandnico" target="_blank">Twitter</a>
+									</li>						
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</body>	
+</html>		
